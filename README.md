@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Modify MD to host features
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This MD will explain all features developed for advanced react
 
 ## Available Scripts
 
