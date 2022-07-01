@@ -1,6 +1,6 @@
 # Modify MD to host features
 
-This MD will explain all features developed for advanced react
+This MD will explain typing features for react hooks and custom hooks
 
 ## Available Scripts
 
